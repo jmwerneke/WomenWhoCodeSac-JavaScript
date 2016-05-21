@@ -1,0 +1,27 @@
+// Write your code below!
+var answer = prompt("Add your question here!");
+
+switch(answer) {
+  case 'Who?':
+    console.log("Who is on first");
+    break;
+  case 'What?':
+    console.log("What is on second");
+    break;
+  case 'I do not know?':
+    console.log("I don't know is on third");
+    break;
+  case 'tomorrow':
+    console.log("Is the pitcher");
+    break;
+  case 'today':
+    console.log("Is the catcher");
+    break;
+  case 'I do not give a darn':
+    console.log("Is our shortstop");
+    break;
+  default:
+    console.log("Why is in the outfield");
+    break;
+}
+
