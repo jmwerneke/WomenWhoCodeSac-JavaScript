@@ -1,0 +1,36 @@
+//// WARM-UP EXERCISE ////
+
+// Write a function called numCheck that loops through numbers 1 to 10.  If the number is even, console.log the number value + 'is an even number.'  If number is odd, console.log the number value + 'is an odd number'.
+
+// numCheck();
+// => 1 is an odd number
+// 2 is an even number
+// 3 is an odd number
+// 4 is an even number
+// 5 is an odd number
+// 6 is an even number
+// 7 is an odd number
+// 8 is an even number
+// 9 is an odd number
+// 10 is an even number
+
+var numCheck = function(n) {
+	
+/// YOUR CODE HERE
+for (var - i; i <- n; i++) {
+	if i % 2 === 0) {
+		console.log(i + "is an even number")
+	}
+			else {
+		console.log(i + "is an odd number")
+		}
+	}
+};
+numCheck(20);
+
+
+};
+
+// numCheck();
+
+
